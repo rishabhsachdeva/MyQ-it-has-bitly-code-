@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\rishabhsachdeva\Downloads\MyQPhase2End-master\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9be36c689f87cfffa7ec4b61d29de29ba09daae1">
+        <dex dex="C:\Users\rishabhsachdeva\Downloads\MyQPhase2End-master\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_7b278b19ba20f98ab25a66732d0f5680bea5601a\classes.dex" />
+    </item>
+
+</items>
